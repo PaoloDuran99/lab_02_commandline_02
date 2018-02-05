@@ -6,7 +6,7 @@ Follow the instructions line-by-line.
 * Enter, tab, up and down are represented by <ENTER><TAB>,<UP> and <DOWN>.  
 * "No output" or "nothing happens" are valid answers to any of the questions.
 ==========
-
+lol
 ==========
 Feel free to use your workstation to test your answers to the questions that don't explicitly tell you to run a command)
 ==========
